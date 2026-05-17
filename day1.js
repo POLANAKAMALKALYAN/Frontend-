@@ -44,8 +44,8 @@ function localFunction() {
 }
 //Block Scope
 if (true) {
-    let blockVar = "I am a block variable";
-    console.log(blockVar);
+    let abc = "I am a block variable";
+    console.log(abc);
 }
 
 //Function Scope
